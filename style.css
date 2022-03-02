@@ -99,7 +99,7 @@ span /*estilo de etiqueta*/
 .hero
 {
     /*imagen de fondo*/
-    background-image: url(/img/portada.jpg);
+    background-image: url(portada.jpg);
     /*no se repita la imagen*/
     background-repeat: no-repeat;
     background-size: cover;
